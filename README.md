@@ -10,7 +10,7 @@ Questa repository contiene tutti i progetti completati del corso **Unity Essenti
 
 ## 📌 Note
 
-- Tutti i progetti sono stati completati seguendo i tutorial ufficiali Unity Learn.
+- Tutto il progetto che contiene la repository è stato completato seguendo i tutorial ufficiali Unity Learn.
 - Alcuni progetti contengono asset gratuiti forniti da Unity, soggetti a licenza d'uso per scopi non commerciali.
 
 ## 📚 Link utili

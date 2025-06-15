@@ -1,6 +1,6 @@
 # Unity Essentials - Progetti Completati 🎮
 
-Questa repository contiene tutti i progetti completati del corso **Unity Essentials** di [Unity Learn](https://learn.unity.com/). È pensata come archivio personale e come riferimento per chi vuole iniziare a usare Unity con una base solida.
+Questa repository contiene tutti i progetti completati del corso **Unity Essentials** di [Unity Learn](https://learn.unity.com/). È pensata come archivio personale.
 
 ## 🛠 Requisiti
 
